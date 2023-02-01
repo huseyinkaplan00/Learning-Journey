@@ -1,11 +1,8 @@
 # Table of contents
 
-  - [Overview](#overview)
-  - [Description] (#description)
+  - [Description](#Description)
   - [Built with](#built-with)
   
-## Overview  
-
 ## Description
 
 The website where I explained how I started this path as a front-end developer and what challenges I faced along the way and how I solved them.

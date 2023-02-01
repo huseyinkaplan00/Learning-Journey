@@ -64,7 +64,7 @@
 }
 .main-article .about__me img {
   transform: rotate(0deg) !important;
-  width: 400px;
+  width: 330px;
   height: 500px;
   -o-object-fit: cover;
      object-fit: cover;

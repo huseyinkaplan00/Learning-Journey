@@ -1,7 +1,7 @@
 # Table of contents
 
   - [Overview](#overview)
-  - [Description] (#Description)
+  - [Description] (#description)
   - [Built with](#built-with)
   
 ## Overview  

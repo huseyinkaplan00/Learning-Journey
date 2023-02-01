@@ -1,10 +1,10 @@
-<h1>Huseyin Kaplan's Learning Journey Fully Responsive Web Site Design</h1>
+# Table of contents
 
-## Table of contents
-
-  -[Description ] ( #description )
-  -[Built with](#built-with)
-
+  - [Overview](#overview)
+  - [Description] (#description)
+  - [Built with](#built-with)
+  
+## Overview  
 
 ## Description
 
@@ -12,11 +12,11 @@ The website where I explained how I started this path as a front-end developer a
 
 Learning Joruney We
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties and SCSS
 - Vanilla JavaScript
 - Flexbox 
 - Grid
-- Mobile-first workflow
+- Fully Responsive, Mobile-first workflow

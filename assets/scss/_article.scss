@@ -1,0 +1,79 @@
+.main-article {
+    margin: 2em 1.25em 0 1.25em;
+
+    .container {
+        time {
+            font-weight: 400;
+            font-size: 12px;
+
+        }
+
+
+        .title {
+            margin-top: 1em;
+            margin-bottom: 15px;
+            letter-spacing: -0.03em;
+            font-weight: 800;
+        }
+
+        img {
+            margin: 2.1875em 0;
+            border-radius: 3px;
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+            width: 100%;
+
+        }
+
+        h3 {
+            font-size: 1rem;
+            margin-bottom: 1.5em;
+        }
+
+        .space__para {
+            margin-bottom: 1.5rem;
+        }
+    }
+
+    .recent__posts {
+        display: block;
+        text-align: center;
+        margin-bottom: 1.6875em;
+    }
+}
+
+
+@media(min-width:768px) {
+
+    .m-b-three-five {
+        margin-bottom: 3.5em !important;
+    }
+
+    .main-article {
+        margin-top: 4.4375em;
+
+        .container {
+            margin: 0 53px;
+
+            h1 {
+                font-size: 2.25rem;
+                margin-top: 1.5em;
+            }
+
+
+
+
+            time {
+                font-size: 1rem !important;
+            }
+        }
+
+        .post {
+            margin: 0 52px !important;
+        }
+
+        .content__par {
+            margin: 0 7.625em;
+            margin-bottom: 3.1875em;
+        }
+    }
+}
